@@ -1,7 +1,7 @@
 # LeetCode
 ### LeetCode 刷题记录
 
-[LeetCode主页](https://leetcode-cn.com/creabine/)
+[LeetCode主页](https://leetcode-cn.com/creabine/)
 
 - 先从简单的开始刷，简单记录每道题的题目，解法和思路。
 - 因为之前并没有什么算法基础，所以很多解法可能并不是最优解。
